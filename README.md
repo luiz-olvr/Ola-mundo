@@ -1,4 +1,6 @@
 # Olá, mundo! 
  Primeiro repositorio versionado
 
- E o manikas né pae hehe
+ É o manikas né pae hehe
+
+ É os guri, não tem outra 
